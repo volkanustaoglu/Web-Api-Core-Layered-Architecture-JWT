@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AppointmentApp.Data</id>
+    <version>1.0.0</version>
+    <authors>AppointmentApp.Data</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Microsoft.Extensions.Configuration" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Abstractions" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Json" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="NLog.Web.AspNetCore" version="4.14.0" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.1" exclude="Build,Analyzers" />
+        <dependency id="System.Data.SqlClient" version="4.8.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\vyust\Desktop\AppointmentApp\AppointmentApp.Data\bin\Release\netcoreapp3.1\AppointmentApp.Data.dll" target="lib\netcoreapp3.1\AppointmentApp.Data.dll" />
+  </files>
+</package>

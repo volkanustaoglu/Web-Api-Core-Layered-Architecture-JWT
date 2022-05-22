@@ -1,0 +1,326 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AppointmentApp.API</name>
+    </assembly>
+    <members>
+        <member name="M:AppointmentApp.API.Controllers.AppointmentsController.GetAll">
+            <summary>
+            Get All Appointment
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.AppointmentsController.Post(AppointmentApp.Data.Models.Appointment)">
+            <summary>
+            Create Appointment
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.AppointmentsController.GetById(System.Int32)">
+            <summary>
+            Get Appointment By Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.AppointmentsController.Delete(System.Int32)">
+            <summary>
+            Delete Appointment By Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.AppointmentsController.Update(AppointmentApp.Data.Models.Appointment)">
+            <summary>
+            Update Appointment
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:AppointmentApp.API.Controllers.AppointmentsController.GetAppointmentByDoctorId(System.Int32)" -->
+        <member name="M:AppointmentApp.API.Controllers.AppointmentsController.GetAppointmentByUserId(System.Int32)">
+            <summary>
+            GetAppointmentByUserId
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.BlogCommentsController.GetAll">
+            <summary>
+            Get All BlogComment
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.BlogCommentsController.Post(AppointmentApp.Data.Models.BlogComment)">
+            <summary>
+            Create BlogComment
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.BlogCommentsController.GetById(System.Int32)">
+            <summary>
+            GetById BlogComment
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.BlogCommentsController.Delete(System.Int32)">
+            <summary>
+            Delete BlogComment
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.BlogCommentsController.Update(AppointmentApp.Data.Models.BlogComment)">
+            <summary>
+            Update BlogComment
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.BlogCommentsController.GetBlogCommentsByBlogId(System.Int32)">
+            <summary>
+            GetBlogCommentsByBlogId
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.BlogController.GetAll">
+            <summary>
+            Get All Blog
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.BlogController.Post(AppointmentApp.Data.Models.Blog)">
+            <summary>
+            Create Blog
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.BlogController.GetById(System.Int32)">
+            <summary>
+            Get Blog By Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.BlogController.Delete(System.Int32)">
+            <summary>
+            Delete Blog By Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.BlogController.Update(AppointmentApp.Data.Models.Blog)">
+            <summary>
+            Update Blog
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.BlogController.GetBlogByUserId(System.Int32)">
+            <summary>
+            GetBlogByUserId
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.DoctorController.GetAll">
+            <summary>
+            Get All Doctors
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.DoctorController.Post(AppointmentApp.Data.Models.Doctor)">
+            <summary>
+            Create Doctor
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.DoctorController.GetById(System.Int32)">
+            <summary>
+            Get Doctor By Id
+            </summary> 
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.DoctorController.Delete(System.Int32)">
+            <summary>
+            Delete Doctor By Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.DoctorController.Update(AppointmentApp.Data.Models.Doctor)">
+            <summary>
+            Update Doctor
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.DoctorDetailController.GetAll">
+            <summary>
+            Get All DoctorDetail
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.DoctorDetailController.Post(AppointmentApp.Data.Models.DoctorDetail)">
+            <summary>
+            Create DoctorDetail
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.DoctorDetailController.GetById(System.Int32)">
+            <summary>
+            Get Doctor By Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.DoctorDetailController.Delete(System.Int32)">
+            <summary>
+            Delete DoctorDetail By Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.DoctorDetailController.Update(AppointmentApp.Data.Models.DoctorDetail)">
+            <summary>
+            Update DoctorDetail
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.DoctorVotingController.GetAll">
+            <summary>
+            Get All DoctorVoting
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.DoctorVotingController.Post(AppointmentApp.Data.Models.DoctorVoting)">
+            <summary>
+            Create DoctorVoting
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.DoctorVotingController.GetById(System.Int32)">
+            <summary>
+            Get Doctor By Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.DoctorVotingController.Delete(System.Int32)">
+            <summary>
+            Delete DoctorVoting By Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.DoctorVotingController.Update(AppointmentApp.Data.Models.DoctorVoting)">
+            <summary>
+            Update DoctorVoting
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.DoctorVotingController.GetDoctorVotingByUserId(System.Int32)">
+            <summary>
+            GetDoctorVotingByUserId
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.UserController.GetAll">
+            <summary>
+            Get All User
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.UserController.Post(AppointmentApp.Data.Models.User)">
+            <summary>
+            Create User
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.UserController.Login(AppointmentApp.Data.MainParameters.UserParameter)">
+            <summary>
+            Post username-password or email-password
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.UserController.GetById(System.Int32)">
+            <summary>
+            Get User By Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.UserController.Delete(System.Int32)">
+            <summary>
+            Delete User By Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.UserController.Update(AppointmentApp.Data.Models.User)">
+            <summary>
+            Update User
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.UserController.GetUser(AppointmentApp.Data.Models.User)">
+            <summary>
+            GetUser
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.UserController.UpdatePassword(System.String,System.String)">
+            <summary>
+            UpdatePassword
+            </summary>
+            <param name="userId"></param>
+            <param name="token"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.UserController.UpdatePassword(AppointmentApp.Data.Models.UpdatePasswordModel)">
+            <summary>
+            UpdatePassword
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.UserController.RegisterUser(AppointmentApp.Data.Models.User)">
+            <summary>
+            User Register
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.UserController.ConfirmEmail(System.String,System.String)">
+            <summary>
+            Post Confirm Email
+            </summary>
+            <param name="userId"></param>
+            <param name="token"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AppointmentApp.API.Controllers.UserController.ForgetPassword(System.String)">
+            <summary>
+            Forget Password Post Email
+            </summary>
+            <param name="email"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

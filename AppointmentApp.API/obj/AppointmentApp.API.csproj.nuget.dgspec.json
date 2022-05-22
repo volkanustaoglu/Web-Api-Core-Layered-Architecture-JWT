@@ -1,0 +1,224 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Volkan\\Desktop\\AppointmentApp\\AppointmentApp.API\\AppointmentApp.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Volkan\\Desktop\\AppointmentApp\\AppointmentApp.API\\AppointmentApp.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Volkan\\Desktop\\AppointmentApp\\AppointmentApp.API\\AppointmentApp.API.csproj",
+        "projectName": "AppointmentApp.API",
+        "projectPath": "C:\\Users\\Volkan\\Desktop\\AppointmentApp\\AppointmentApp.API\\AppointmentApp.API.csproj",
+        "packagesPath": "C:\\Users\\Volkan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Volkan\\Desktop\\AppointmentApp\\AppointmentApp.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Volkan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Volkan\\Desktop\\AppointmentApp\\AppointmentApp.Business\\AppointmentApp.Business.csproj": {
+                "projectPath": "C:\\Users\\Volkan\\Desktop\\AppointmentApp\\AppointmentApp.Business\\AppointmentApp.Business.csproj"
+              },
+              "C:\\Users\\Volkan\\Desktop\\AppointmentApp\\AppointmentApp.Data\\AppointmentApp.Data.csproj": {
+                "projectPath": "C:\\Users\\Volkan\\Desktop\\AppointmentApp\\AppointmentApp.Data\\AppointmentApp.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "NSwag.AspNetCore": {
+              "target": "Package",
+              "version": "[13.15.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Volkan\\Desktop\\AppointmentApp\\AppointmentApp.Business\\AppointmentApp.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Volkan\\Desktop\\AppointmentApp\\AppointmentApp.Business\\AppointmentApp.Business.csproj",
+        "projectName": "AppointmentApp.Business",
+        "projectPath": "C:\\Users\\Volkan\\Desktop\\AppointmentApp\\AppointmentApp.Business\\AppointmentApp.Business.csproj",
+        "packagesPath": "C:\\Users\\Volkan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Volkan\\Desktop\\AppointmentApp\\AppointmentApp.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Volkan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Volkan\\Desktop\\AppointmentApp\\AppointmentApp.Data\\AppointmentApp.Data.csproj": {
+                "projectPath": "C:\\Users\\Volkan\\Desktop\\AppointmentApp\\AppointmentApp.Data\\AppointmentApp.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Volkan\\Desktop\\AppointmentApp\\AppointmentApp.Data\\AppointmentApp.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Volkan\\Desktop\\AppointmentApp\\AppointmentApp.Data\\AppointmentApp.Data.csproj",
+        "projectName": "AppointmentApp.Data",
+        "projectPath": "C:\\Users\\Volkan\\Desktop\\AppointmentApp\\AppointmentApp.Data\\AppointmentApp.Data.csproj",
+        "packagesPath": "C:\\Users\\Volkan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Volkan\\Desktop\\AppointmentApp\\AppointmentApp.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Volkan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[4.14.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

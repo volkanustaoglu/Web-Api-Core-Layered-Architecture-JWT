@@ -1,0 +1,9 @@
+C:\Users\vyust\Desktop\AppointmentApp\AppointmentApp.Data\bin\Release\netcoreapp3.1\AppointmentApp.Data.deps.json
+C:\Users\vyust\Desktop\AppointmentApp\AppointmentApp.Data\bin\Release\netcoreapp3.1\AppointmentApp.Data.dll
+C:\Users\vyust\Desktop\AppointmentApp\AppointmentApp.Data\bin\Release\netcoreapp3.1\AppointmentApp.Data.pdb
+C:\Users\vyust\Desktop\AppointmentApp\AppointmentApp.Data\obj\Release\netcoreapp3.1\AppointmentApp.Data.csprojAssemblyReference.cache
+C:\Users\vyust\Desktop\AppointmentApp\AppointmentApp.Data\obj\Release\netcoreapp3.1\AppointmentApp.Data.AssemblyInfoInputs.cache
+C:\Users\vyust\Desktop\AppointmentApp\AppointmentApp.Data\obj\Release\netcoreapp3.1\AppointmentApp.Data.AssemblyInfo.cs
+C:\Users\vyust\Desktop\AppointmentApp\AppointmentApp.Data\obj\Release\netcoreapp3.1\AppointmentApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\vyust\Desktop\AppointmentApp\AppointmentApp.Data\obj\Release\netcoreapp3.1\AppointmentApp.Data.dll
+C:\Users\vyust\Desktop\AppointmentApp\AppointmentApp.Data\obj\Release\netcoreapp3.1\AppointmentApp.Data.pdb

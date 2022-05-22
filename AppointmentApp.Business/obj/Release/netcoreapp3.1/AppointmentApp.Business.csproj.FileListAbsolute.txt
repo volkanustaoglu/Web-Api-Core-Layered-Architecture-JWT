@@ -1,0 +1,12 @@
+C:\Users\vyust\Desktop\AppointmentApp\AppointmentApp.Business\bin\Release\netcoreapp3.1\AppointmentApp.Business.deps.json
+C:\Users\vyust\Desktop\AppointmentApp\AppointmentApp.Business\bin\Release\netcoreapp3.1\AppointmentApp.Business.dll
+C:\Users\vyust\Desktop\AppointmentApp\AppointmentApp.Business\bin\Release\netcoreapp3.1\AppointmentApp.Business.pdb
+C:\Users\vyust\Desktop\AppointmentApp\AppointmentApp.Business\bin\Release\netcoreapp3.1\AppointmentApp.Data.dll
+C:\Users\vyust\Desktop\AppointmentApp\AppointmentApp.Business\bin\Release\netcoreapp3.1\AppointmentApp.Data.pdb
+C:\Users\vyust\Desktop\AppointmentApp\AppointmentApp.Business\obj\Release\netcoreapp3.1\AppointmentApp.Business.csprojAssemblyReference.cache
+C:\Users\vyust\Desktop\AppointmentApp\AppointmentApp.Business\obj\Release\netcoreapp3.1\AppointmentApp.Business.AssemblyInfoInputs.cache
+C:\Users\vyust\Desktop\AppointmentApp\AppointmentApp.Business\obj\Release\netcoreapp3.1\AppointmentApp.Business.AssemblyInfo.cs
+C:\Users\vyust\Desktop\AppointmentApp\AppointmentApp.Business\obj\Release\netcoreapp3.1\AppointmentApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\vyust\Desktop\AppointmentApp\AppointmentApp.Business\obj\Release\netcoreapp3.1\AppointmentApp.Business.csproj.CopyComplete
+C:\Users\vyust\Desktop\AppointmentApp\AppointmentApp.Business\obj\Release\netcoreapp3.1\AppointmentApp.Business.dll
+C:\Users\vyust\Desktop\AppointmentApp\AppointmentApp.Business\obj\Release\netcoreapp3.1\AppointmentApp.Business.pdb
